@@ -1,2 +1,5 @@
-# 26199-santiago-aguilon-munoz-hdt6
-Repositorio del ejercicio 6 del curso de Programación Orientada a Objetos
+# Ejercicio de polimorfismo via interfaces
+# Santiago Aguilón Muñoz 
+# Carné #26199
+# Primer año
+
