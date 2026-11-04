@@ -26,7 +26,7 @@ El programa carga 10 integraciones ficticias:
 
 Toodas las operaciones y APIs son simuladas.
 
-### información de estudiante
+### Información de estudiante
 
 - Santiago Aguilón Muñoz 
 - Carné #26199
