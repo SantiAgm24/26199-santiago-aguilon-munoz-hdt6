@@ -1,9 +1,6 @@
-## Santiago Aguilón Muñoz 
-## Carné #26199
-## Primer año
-## Ejercicio 6 - Polimorfismo vía Interfaces
+# Ejercicio 6 - Polimorfismo vía Interfaces
 
-# Descripción
+## Descripción
 
 Prototipo de consola en Java que administra integraciones simuladas de pagos, logística y facturación electrónica FEL.
 
@@ -28,3 +25,9 @@ El programa carga 10 integraciones ficticias:
 - 3 certificadores FEL: `FEL-01` a `FEL-03`.
 
 Toodas las operaciones y APIs son simuladas.
+
+### información de estudiante
+
+- Santiago Aguilón Muñoz 
+- Carné #26199
+- Primer año
